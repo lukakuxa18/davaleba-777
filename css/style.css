@@ -1,0 +1,54 @@
+.w{
+	border-color: white;
+	position: relative;
+}
+.domino{
+	background-color: #22B573;
+	border: 4px solid  #006837;
+	margin: 10px;
+    position: absolute;
+	height: 700px;
+	z-index: 20;
+	width: 1500px;
+}
+.putin{
+	text-align: center;
+}
+.image{
+	float: right;
+	width: 800px;
+	color: yellow;
+	height: 550px;
+}
+.lili{
+	display: inline-block;
+	color: white;
+	font-size:40px;
+	margin-top: 15px;
+	margin-left: 260px;
+	margin-top: 80px;
+}
+.dorian{
+	position: absolute;
+	z-index: 30;
+}
+.white{
+	position: absolute;
+	background-color: white;
+	width: 830px;
+	height: 400px;
+	z-index: 60;
+	margin-top: 170px;
+	padding: 30px;
+}
+.grinch{
+	background-color: #006837;
+	height: 350px;
+	padding:160px;
+}
+.p{
+	color: #FFFF00;
+	text-align: center;
+	-webkit-transform: rotate(30deg);
+	font-size: 43px;
+}
